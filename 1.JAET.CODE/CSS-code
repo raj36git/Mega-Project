@@ -1,0 +1,288 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: royalblue;
+  position: sticky;
+  top: 0;
+}
+.logo h2 {
+  color: wheat;
+}
+/* .logo img {
+  margin-top: 2px;
+  height: 60px;
+} */
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+.navbar ul {
+  display: flex;
+  margin-top: 5px;
+}
+.search {
+  background-color: aqua;
+  border-radius: 5px;
+  margin: 3px 10px;
+}
+li {
+  list-style: none;
+}
+li a {
+  text-decoration: none;
+  padding: 5px 30px;
+  color: wheat;
+}
+.main {
+  background-color: rgb(39, 37, 32);
+  /* display: flex; */
+}
+section {
+  display: flex;
+}
+.firstm {
+  /* border: 2px solid black; */
+  color: aliceblue;
+  margin-left: 2em;
+}
+.firstm h2 {
+  margin: 62px;
+}
+.build {
+  color: blueviolet;
+  font-size: 44px;
+}
+.more {
+  background-color: blueviolet;
+  border-radius: 4px;
+  padding: 8px;
+  margin-top: 6px;
+}
+.more a {
+  text-decoration: none;
+  color: white;
+}
+.hire {
+  border-radius: 4px;
+  padding: 8px;
+}
+.hire a {
+  text-decoration: none;
+  color: rgb(9, 9, 9);
+}
+.imgm {
+  /* border: 2px solid black; */
+  margin-left: 2em;
+}
+.secm {
+  /* border: 2px solid black; */
+  margin-left: 15em;
+  margin-right: 11em;
+}
+form {
+  color: white;
+}
+fieldset {
+  background-color: #f74c26;
+  border-radius: 5px;
+}
+form input {
+  margin: 2px;
+}
+form #name {
+  background-color: #bf60e196;
+}
+form #email {
+  background-color: #bf60e196;
+}
+form #password {
+  background-color: #bf60e196;
+}
+form #problem {
+  background-color: #bf60e196;
+}
+form #reset {
+  background-color: rgb(145, 5, 149);
+  border-radius: 5px;
+  color: white;
+}
+form #submit {
+  background-color: rgb(153, 5, 138);
+  border-radius: 5px;
+  color: white;
+}
+.about {
+  background-color: #373230;
+  color: white;
+  margin-top: 15px;
+}
+.about h2 {
+  display: flex;
+  justify-content: center;
+  color: greenyellow;
+}
+.ser {
+  display: flex;
+  justify-content: center;
+  background-color: orchid;
+  color: firebrick;
+}
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: rgb(56, 46, 46);
+  color: wheat;
+  padding: 12px;
+  column-gap: 93px;
+  row-gap: 53px;
+  justify-content: center;
+  align-items: center;
+}
+.box {
+  background-color: rgb(42, 50, 57);
+  /* border: 2px solid black; */
+  height: 220px;
+  width: 220px;
+  padding: 11px 0 12px 12px;
+}
+.box:hover {
+  background-color: purple;
+}
+.box h3 {
+  padding: 18px;
+  color: aqua;
+  font-size: larger;
+}
+.box p {
+  padding: 14px;
+}
+/* #box1{
+
+    padding: 11px 0 12px 12px;
+}
+#box2{
+    padding: 11px 0 12px 12px;
+}
+#box3{
+    padding: 11px 0 12px 12px;
+}
+#box4{
+    padding: 11px 0 12px 12px;
+}
+#box5{
+    padding: 11px 0 12px 12px;
+}
+#box6{
+    padding: 11px 0 12px 12px;
+} */
+.why {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: rgb(56, 46, 46);
+  color: wheat;
+  padding: 12px;
+  column-gap: 93px;
+  row-gap: 53px;
+  justify-content: center;
+  align-items: center;
+}
+.cause {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(119, 15, 217);
+  color: rgb(224, 197, 197);
+}
+.why1 {
+  background-color: rgb(42, 50, 57);
+  /* border: 2px solid black; */
+  height: 200px;
+  width: 200px;
+  padding: 11px 0 12px 12px;
+}
+.why1:hover {
+  background-color: purple;
+}
+.why h3 {
+  padding: 18px;
+  color: aqua;
+  font-size: larger;
+}
+.why p {
+  padding: 8px;
+}
+.soul {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(32, 24, 32);
+  color: firebrick;
+  color: wheat;
+}
+.soul {
+  display: flex;
+  margin: 5px;
+  padding: 11px;
+}
+.soul-grid {
+  display: grid;
+  grid-template-columns: auto auto;
+  background-color: rgb(56, 46, 46);
+  color: wheat;
+  padding: 11px;
+  column-gap: 9px;
+  row-gap: 8px;
+  justify-content: center;
+  align-items: center;
+}
+.soul-box {
+  background-color: rgb(42, 50, 57);
+  /* border: 2px solid black; */
+  height: 20px;
+  width: 220px;
+  padding: 11px 0 12px 12px;
+}
+.soul-p {
+  padding: 11px;
+}
+.soul-box:hover {
+  background-color: purple;
+}
+.banner {
+  background-color: rgb(29, 144, 251);
+  height: 20vh;
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.banner p {
+  font-size: larger;
+  font-weight: bold;
+}
+.member {
+  height: 50vh;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: rgb(56, 46, 46);
+  color: wheat;
+  padding: 11px;
+  column-gap: 9px;
+  row-gap: 8px;
+  justify-content: center;
+  align-items: center;
+}
+.mem {
+  background-color: rgb(42, 50, 57);
+  /* border: 2px solid black; */
+  height: 220px;
+  width: 220px;
+  padding: 11px 0 12px 12px;
+}
+.contacts {
+  display: flex;
+  justify-content: center;
+}
+.cbtn {
+  background-color: red;
+}
