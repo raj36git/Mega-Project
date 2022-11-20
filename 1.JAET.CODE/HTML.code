@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JAET.CODE WEBSITE</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <div class="logo">
+                <!-- <img src="./image/logo.png" width="80px" alt="logo"> -->
+                <h2>JAET.code</h2>
+            </div>
+            <div class="navbar">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#aboutus">About</a></li>
+                    <li><a href="#servicess">Services</a></li>
+                    <li><a href="#whyjaet">Why</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><a href="#contacts">Contacts</a></li>
+                    <input class="search" type="text" placeholder="search services">
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <main class="main">
+        <section>
+            <div class="firstm">
+                <h2>Start your <span>
+                        <p class="build">Business </p>
+                    </span>
+                    <p>with Us</p>
+                </h2>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consectetur nobis atque, debitis, aut place
+                    laudantium, eos fugit. Dolorem alias dolorum omnis facere sint optio libero incidunt quam debitis
+                    aliquid. Beatae eaque nobis recusandae delectus.</p>
+                <button class="more"><a href="#">Learn More</a></button>
+                <button class="hire"><a href="#">Hire US</a></button>
+            </div>
+            <div class="imgm">
+                <img src="./image/laptop.webp" alt="">
+            </div>
+            <div class="secm">
+                <form action="#">
+                    <fieldset>
+                        <legend>
+                            <h2>Log-in</h2>
+                        </legend>
+                        <input type="text" name="" id="name" placeholder="Enter name"> <br>
+                        <input type="email" name="" id="email" placeholder="abc@gmail.com"> <br>
+                        <input type="password" name="" id="password" placeholder="Enter Password"> <br>
+                        <textarea id="problem" cols="30" rows="5" placeholder="services you want"></textarea> <br>
+                        <input type="reset" id="reset">
+                        <input type="submit" id="submit" placeholder="Submit">
+                    </fieldset>
+                </form>
+            </div>
+        </section>
+        <div class="about" id="aboutus">
+            <h2>About Us</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia, amet rerum. Assumenda explicabo
+                laborum vitae ipsum doloribus voluptatem vero, eius ratione expedita. Voluptate iusto, sint sequi quam
+                reiciendis corrupti magni ducimus accusamus nesciunt vero at voluptates suscipit mollitia quae facere
+                itationem voluptate quidem distinctio voluptatum aliquam provident non qui commodi optio velit ex nobis
+                nulla ipsa vitae asperiores. Ex id quod facere dolor perspiciatis inventore. Est distinctio eligendi
+                veritatis quibusdam fuga atque voluptatum, asperiores quam quidem dolorum, quae, eveniet eius maiores
+                illum quo consequatur omnis ipsum minus architecto saepe! Delectus nobis ab facere autem voluptatum
+                error tempore ipsam, iusto sit voluptates hic inventore eligendi deserunt explicabo aspernatur totam
+                veniam cum dicta, et eos. Debitis facere voluptatibus tempore dolores error odio provident labore, non
+                voluptates quisquam dolorem, autem quaerat incidunt quae eveniet alias qui nam quod rem nemo! Blanditiis
+                eaque modi saepe ipsam eum, quas amet harum, expedita voluptas architecto atque cumque maxime deleniti
+                laborum adipisci. Harum incidunt exercitationem numquam minus, dolorum officia sit expedita explicabo
+                cumque suscipit omnis, vel id ipsam error! Suscipit placeat rem officia cumque nihil in consequuntur
+                minus nobis, quod repellat illum, quia a totam recusandae, obcaecati sapiente. Deleniti consectetur
+                pariatur earum natus cumque repellendus doloremque perspiciatis. Commodi expedita delectus deleniti a
+                doloribus unde quae ipsam beatae ipsum numquam accusantium, corporis minima odit pariatur amet eius
+                eligendi explicabo et, officiis consequuntur illo alias ea totam! Dolorem qui suscipit sapiente, dicta
+                enim aliquid veniam est perspiciatis commodi eos tempora omnis nulla accusamus neque id eum recusandae
+                rem officiis odit in eligendi voluptate beatae. Omnis ex distinctio in quia. Nulla ut modi perspiciatis!
+                Dicta mollitia inventore qui quisquam nobis asperiores eaque minus excepturi corporis, iure temporibus
+                modi error, nihil a animi ratione repellat dolorum? Sint debitis tempora repellendus sed facilis enim ut
+                id cupiditate commodi tenetur porro eligendi molestiae saepe deserunt fuga, corporis, nostrum aliquid
+                molestias eos provident sapiente odit veniam numquam facere? Voluptatum eveniet dignissimos cupiditate,
+                distinctio qui minima blanditiis earum pariatur beatae. Quaerat, id ipsam quia quasi blanditiis pariatur
+                iusto incidunt in quisquam voluptatem accusamus neque, officiis dicta soluta ullam consequuntur
+                necessitatibus? Nostrum cupiditate quam itaque, provident consequatur exercitationem animi. Facilis ad
+                repudiandae, soluta ipsa aut mollitia voluptate earum beatae veritatis molestiae excepturi quisquam
+                atque eligendi, delectus laboriosam repellat maiores ex quos accusamus quidem laborum esse harum magni
+                minus! Voluptatem deserunt accusantium, ullam error vel doloremque commodi iure obcaecati, ducimus sequi
+                aspernatur eligendi fuga voluptate consequuntur debitis delectus ut quaerat saepe. Molestias doloribus
+                ea sunt aperiam aliquid perferendis unde voluptatibus. Eos ab pariatur, aliquid sapiente consequatur
+                dolore eum quo optio doloribus maxime cupiditate esse qui est repudiandae sequi. Illum ab dolor
+                laudantium et voluptatum tenetur doloribus, fuga molestias non recusandae iste ipsum! Suscipit et optio
+                veritatis ex exercitationem non, iusto perspiciatis magnam, eum, ad error quasi ipsa. Temporibus,
+                blanditiis tempora quasi consequuntur iste voluptatum voluptate quae dicta eaque. Sapiente illum
+                deserunt fugiat impedit rem odit culpa laborum facere iste ullam delectus, non ipsum reiciendis,
+                expedita accusamus voluptate, cum ratione nisi. Earum vero cumque deserunt ipsum fuga esse debitis
+                accusantium ad, optio odio eos impedit tempora amet praesentium aliquid omnis eligendi laboriosam iste
+                consectetur cum. Cumque id nam quos eius, voluptate natus ad, quas fugit itaque accusantium velit vero
+                cupiditate voluptas quisquam maiores repellat, modi dolor adipisci ab esse voluptatum quae in
+                exercitationem recusandae. Unde laboriosam sint optio autem expedita deleniti porro magnam numquam,
+                nesciunt atque consectetur minus minima iure assumenda ipsum eveniet at, quia dolor excepturi quae?
+                Blanditiis maiores enim nostrum similique voluptates consequatur recusandae voluptatum assumenda
+                sapiente nemo alias inventore placeat animi, iure dignissimos, impedit rerum dolor nam, modi doloremque
+                consectetur fugiat omnis explicabo magnam? Iste voluptates suscipit inventore officiis nisi reiciendis
+                autem reprehenderit accusamus quas corporis, vero nostrum eius aliquid quo ea fugit hic odio cupiditate
+                nihil veniam. Nobis, provident nihil? Quasi earum sapiente voluptas soluta illum officiis aspernatur,
+                debitis explicabo at veritatis voluptatum molestias saepe cum atque unde tempora sint nisi autem
+                consequatur quae. Exercitationem, quos, in nostrum nihil amet neque laborum eius molestiae placeat
+                dolores a minima dolor excepturi corporis perferendis voluptatibus necessitatibus mollitia similique,
+                recusandae officia non reprehenderit molestias ducimus? Pariatur saepe earum iure culpa reprehenderit
+                placeat eligendi rerum sit? Accusantium qui quia eius amet eum. Alias quod natus non nisi libero!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor voluptate consequuntur a, sit libero aut
+                porro est vero provident doloribus, at beatae incidunt eius odit unde vel nam cum necessitatibus maiores
+                dolorem facilis itaque non veniam architecto. Quaerat cum placeat quo in quidem architecto minus sed sit
+                voluptatem, facilis aspernatur laudantium cumque nostrum quis qui delectus dignissimos laborum. Optio,
+                alias minus. Et sit iusto nisi expedita consequuntur a consectetur exercitationem cum temporibus
+                nesciunt quae dolore, dicta odit aspernatur praesentium nemo voluptatem cumque totam laboriosam. Itaque
+                nemo, velit in voluptatibus accusamus, aperiam ad laboriosam ipsum mollitia pariatur praesentium laborum
+                error. Consectetur!</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut laborum quisquam blanditiis nobis optio
+                molestiae tempora iste autem esse magnam. Explicabo velit quibusdam autem, expedita a doloribus dolor.
+                Accusantium, expedita numquam eveniet similique porro quisquam officiis voluptas praesentium dolorem
+                eum. Aliquid mollitia sit facere maiores beatae ex? Et suscipit fugiat dolor rem minima praesentium
+                possimus dicta nostrum ducimus! Voluptas illo magni repellat asperiores saepe earum necessitatibus
+                praesentium velit sunt corporis culpa nemo aliquid vitae fuga facere officia accusamus deserunt, eius
+                blanditiis dolorum? Sed, autem maxime. Ullam amet perferendis qui, saepe sed ex sit tempora inventore,
+                eaque earum quam a perspiciatis.</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, doloremque magni quod minima dolor
+                voluptates. Officiis corrupti dolore dolores quod, magni architecto voluptatibus pariatur eos
+                accusantium delectus perferendis sed placeat cumque qui incidunt inventore dolorem aut accusamus.
+                Expedita quibusdam, facilis tempora adipisci dicta distinctio omnis laudantium quaerat ab obcaecati
+                suscipit labore eum incidunt. Laborum fugiat veritatis expedita vel nihil, tenetur at perferendis rerum
+                culpa nobis explicabo voluptatum iusto nam nostrum doloremque illum deleniti quia laudantium vitae
+                recusandae, est ex labore molestias non! Illum eveniet enim praesentium sunt quis vel nobis at dolorum
+                voluptas repudiandae quaerat fugiat, laboriosam maiores dolorem excepturi!</p>
+        </div>
+        <div class="ser" id="servicess">
+            <h2>Services</h2>
+        </div>
+        <div class="container">
+            <div class="box" id="box1">
+                <h3>Web Development</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis quia fugiat architecto. Lorem
+                    ipsum, dolor sit amet consectetur adipisicing elit. Tempora saepe non reiciendis!</p>
+            </div>
+            <div class="box" id="box2">
+                <h3>App Development</h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam blanditiis laudantium numquam
+                    tempora quaerat! Mollitia porro ab deserunt eum itaque dolorem veniam omnis ex ipsam!</p>
+            </div>
+            <div class="box" id="box3">
+                <h3>Video Editing</h3>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae beatae voluptatibus odio error,
+                    quos vero numquam tenetur, recusandae iste vitae ipsa perferendis soluta ducimus voluptate?</p>
+            </div>
+            <div class="box" id="box4">
+                <h3>SEO</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis corporis officia quidem voluptas
+                    incidunt voluptates, sapiente nihil tenetur maxime molestiae impedit sit repellat soluta architecto.
+                </p>
+            </div>
+            <div class="box" id="box5">
+                <h3>Content Writing</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi consectetur provident voluptate
+                    facere cum earum sit at eligendi. Deserunt vitae aliquam debitis nobis quibusdam esse!</p>
+            </div>
+            <div class="box" id="box6">
+                <h3>Social Media</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis modi atque ullam, incidunt sequi
+                    ducimus vel est iure nemo nulla ipsa ut sed consectetur eveniet!</p>
+            </div>
+        </div>
+        <div class="cause" id="whyjaet">
+            <h2>Why JAET.code</h2>
+        </div>
+        <div class="why">
+            <div class="why1">
+                <h3>Best Developer</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit enim molestias voluptate,
+                    cumque eveniet nemo est veniam placeat illum maiores.</p>
+            </div>
+            <div class="why1">
+                <h3>Service On Time</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit enim molestias voluptate,
+                    cumque eveniet nemo est veniam placeat illum maiores.</p>
+            </div>
+            <div class="why1">
+                <h3>Afforadable Charges</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit enim molestias voluptate,
+                    cumque eveniet nemo est veniam placeat illum maiores.</p>
+            </div>
+        </div>
+        <div class="soul">
+            <img src="./image/soul.png" alt="">
+            <div>
+                <h2>Tech Soul for your Business</h2>
+                <p class="soul-p">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum, quos!</p>
+                <div class="soul-grid">
+                    <div class="soul-box" id="soul-box1">
+                        <h3>UI/UX Design</h3>
+                    </div>
+                    <div class="soul-box" id="soul-box2">
+                        <h3>Cloud Service</h3>
+                    </div>
+                    <div class="soul-box" id="soul-box3">
+                        <h3>IoS (Swift)</h3>
+                    </div>
+                    <div class="soul-box" id="soul-box4">
+                        <h3>Android App (Java)</h3>
+                    </div>
+                </div>
+            </div>
+    </main>
+
+    <div class="banner">
+        <div class="boxes">
+            <p>
+            <h3>10+</h3>Years of Experience</p>
+        </div>
+        <div class="boxes">
+            <p>
+            <h4>500+</h4>Complex Projects</p>
+        </div>
+        <div class="boxes">
+            <p>
+            <h3>20+</h3>Employee</p>
+        </div>
+        <div class="boxes">
+            <p>
+            <h3>400+</h3>5* Rating</p>
+        </div>
+    </div>
+    <div class="member">
+        <div class="mem">
+            <img src="./image/co-f.png" height="230px" alt="founder pic">
+            <h2>Raj Yadav</h2>
+            <h3>Co-Founder</h3>
+        </div>
+        <div class="mem"></div>
+        <div class="mem"></div>
+    </div>
+    <div id="contacts">
+        <h4>Have a Project in mind??</h4>
+        <button class="cbtn"><a href="#">Contact us</a></button>
+    </div>
+    <footer class="foot">
+        <div>
+            <p>Ultimate Solution of your all Problems</p>
+            <img src="./image/fb.png" height="70px" alt="facebook"><a href="#" target="_blank"></a>
+            <img src="./image/twitter.png" height="70px" alt="twitter"><a href="#" target="_blank"></a>
+            <img src="./image/in.png" height="70px" alt="linkedin"><a href="#" target="_blank"></a>
+            <img src="./image/ig.png" height="70px" alt="instagram"><a href="#" target="_blank"></a>
+        </div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </footer>
+</body>
+
+</html>
